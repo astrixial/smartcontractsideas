@@ -1,4 +1,6 @@
-
+// the code of the dao but  with a back up private 
+/// futher posibilities 
+/// needs import. a library 
 
 contract RewardOfferprivate  is Offer {
 
