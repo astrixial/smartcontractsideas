@@ -1,6 +1,6 @@
 // Save this in Faucet.sol
 //the original faucet code is this 
-// the question is possible creat a faucet infinite ??
+// the question is possible create a faucet infinite ??
 /// futher code
 contract Faucet {
     address owner;
