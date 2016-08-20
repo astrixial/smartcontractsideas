@@ -1,6 +1,7 @@
 
 /// the procotocol have issue with private , need a hybrid protocol on go logang 
 /// or need kind of client on go language
+// working on inline assembly
 
 contract Split {
 	address private creator;
