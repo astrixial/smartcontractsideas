@@ -1,5 +1,6 @@
 /// tokens registry 
-///
+/// I am thinking on token especial , I mean what happens if the account are inactived for a long time , many causes 
+///  the question is whats happens if I could make inheritance contract ? I mean a inherantece on cryptocurrency
 
 
 contract TokenRegistry {
